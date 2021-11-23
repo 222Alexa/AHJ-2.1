@@ -15,7 +15,7 @@
 
 Вы решили развлечься и реализовать некое подобие игры, где гномы (или другие существа), выскакивают из "отверстий" и по ним нужно бить молотком:
 
-![](./pic/GracefulMiniatureBustard-small.gif)
+![](https://github.com/netology-code/ahj-homeworks/blob/simplification/dom/pic/GracefulMiniatureBustard-small.gif)
 
 Copyright gfycat.com
 
@@ -29,7 +29,7 @@ Copyright gfycat.com
 
 Для картинки персонажа используйте следующую:
 
-![](./pic/goblin.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/simplification/dom/pic/goblin.png)
 
 Важно: не используйте `removeChild`! Проверьте, что будет, если `Node` изменить родителя.
 
@@ -38,3 +38,5 @@ Copyright gfycat.com
 **В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект. Не забудьте установить бейджик сборки.**
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/i2a53we4yecmaav7/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-2-1-fkkgk/branch/main)
